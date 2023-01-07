@@ -64,5 +64,26 @@ Educator.addUser = (educatorUser, result) => {
     });
 };
 
+Educator.deleteUser = (educatorId, userId, result) => {
+    database.query(
+      `DELETE FROM Educator_User WHERE idEducator = ? AND idUser = ?`,
+      [educatorId, userId],
+      (error, res) => {
+        if (error) {
+          console.log("error: ", error);
+          result(error, null);
+          return;
+        }
+        if (res.affectedRows == 0) {
+          // User with the specified IDs was not found
+          result({ kind: "not_found" }, null);
+          return;
+        }
+        console.log("deleted user from educator with idEducator: ", educatorId);
+        result(null, res);
+      }
+    );
+  };
+
 
 module.exports = Educator;
