@@ -97,3 +97,218 @@ Tu boire jus de raisin.
 Il boire eau.
 S'il te plait je veux eau.
 Je veux l'eau s'il te plait.
+Je veux des fraises
+Je veux manger poivron vert
+Je veux manger Concombre
+Je veux manger poivron rouge
+Je veux laitue
+Je veux manger pomme verte
+Je veux manger pomme rouge
+Je veux manger pomme légumes
+Je veux manger Brocoli
+Je veux manger Maïs
+Je veux manger Croissant
+Je veux manger Poulet
+Je veux manger Repas froid
+Je veux manger repas chaud
+Je veux manger biscuits
+Je veux manger chips
+Je veux fromage
+Il distribue le lait
+range tes vêtements
+ouvre les stores
+tiens la main
+Je jouer avec un ami
+prendre sans demander
+tour de rôle
+respecte l'espace
+regarde l'autre
+enfants qui discutent
+fière de toi
+Il être timide
+il être fatigué
+il être déçu
+il être anxieux
+il être avec les autres
+je veux manger pastèque encore
+pastèque avec pomme
+Oui avec toi
+tiens tes vêtements
+tiens regarde 
+tiens repas froid 
+tiens repas froid
+mange tes chips
+regarde repas froid 
+regarde repas chaud
+regarde enfants 
+demander enfants
+enfants fatigué
+enfants anxieux
+vêtements enfants
+Breuvage chaud
+boire eau froid
+boire eau chaud
+boire lait froid
+boire lait froid
+boire jus d'orange
+boire jus de raisin
+Baisse ton pantalon
+Ferme la porte 
+Déchire le papier
+Papier sale 
+Papier propre 
+Papier toilette
+Toilette propre
+Plie le papier
+jus chaud
+jus d'orange froid
+jus d'orange chaud
+Essuie tes fesses
+Caca dans la toilette
+Jette le papier
+Monte tes pantalons
+Tire la chasse
+Ouvre la porte
+Tu ouvre la porte
+Il ouvre la porte
+Je ouvre la porte
+Lave tes mains
+Ouvre le robinet
+Mouille tes mains
+Savonne tes mains
+Ferme le robinet
+Essuie tes mains
+Envie de pipi
+Mouiller ses vêtements
+Force sur la toilette
+Pipi debout
+Essuie le pipi
+Toilette Urinoir
+Se lever la nuit
+Prends du papier
+Fier de soi
+Mouille ta brosse
+Mets du dentifrice
+Brosse tes dents
+Rince ta bouche
+Crache avec ta bouche
+Peigne tes cheveux
+Vernis à ongles
+Couper les ongles
+Bain de bouche
+Déshabille-toi
+Entre dans le bain
+Mets du savon
+Lave ton visage
+Lave ton épaule
+Lave tes aisselles
+Lave ton ventre
+Lave tes fesses
+Lave ton pénis
+Lave tes jambes
+Mouille tes cheveux
+Essuie tes yeux
+Prends du shampoing
+Mousse tes cheveux
+Rince tes cheveux
+Essuie-toi
+Mets tes culottes
+Mets ta camisole
+Mets ton chandail
+Mets tes bas
+Mets ta jupe
+Mets ton pantalon
+Mets tes chaussettes
+Mets ta robe
+Habille-toi
+Mets tes souliers
+Détache tes souliers
+Enlève ton chandail
+Enlève tes chaussettes
+Enlève ta casquette
+Enlève tes mitaines
+Enlève ta tuque
+Enlève ton foulard
+Détache ton manteau
+Enlève ton manteau
+Enlève tes bottes
+Enlève ton pantalon
+Mets ton cache-col
+Mets tes lunettes
+Dormir sur lit
+Fais ton lit
+Brosse tes dents
+Histoire de nuit
+Bonne nuit
+Maman dort
+Accroche ton pyjama
+Fille de face
+Fille de dos
+Garçon de face
+Garçon de dos
+Yeux de Garçon
+Yeux de Fille
+Bain de bouche
+Langue de Garçon
+Gorge de Garçon
+Gorge de Fille
+Cheville de Garçon
+Cheville de Fille
+Poignet
+Oreille de garçon
+Oreille de Fille
+Poitrine de Garçon
+Poitrine de Fille
+Montrer où j'ai mal
+Mal à la tête
+Mal à la poitrine
+Mal au bras
+Mal à la main
+Mal au ventre
+Mal au dos
+Mal quand je fais pipi
+Mal au derrière
+Mal aux pieds
+Mal à la jambe
+Garçon Malade
+Fille Malade
+Garçon Étourdi
+Fille Étourdi
+Mal au coeur
+Vomir pastèque
+Vomir Concombre
+Vomir lait 
+Vomir lait chaud
+Vomir lait froid
+Je n'ai pas mal
+Je me sens bizarre
+J'ai un peu mal
+J'ai mal
+J'ai trop mal
+J'ai très mal
+Salle d'attente
+Médecin de Hôpital
+Parler avec le médecin
+Prendre la pression
+Réflexes de Garçon
+Réflexes de Fille
+Prendre la température
+Prise de sang
+Rayons X
+Dormir à l'hopital
+Pharmacien à l'hopital
+Médicaments de Pharmacien
+Soluté dans eau
+Sirop de Pharmacien
+Inhalateur avec eau
+Pansement de sang
+Diffuseur de eau
+Huiles essentielles
+Médecin Optométriste
+Médecin Orthophoniste
+Médecin Psychologue
+Médecin En santé
+Ça goûte bon
+Ça goûte mauvais
+Viens manger
+C'est terminé

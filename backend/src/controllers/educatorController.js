@@ -141,3 +141,29 @@ exports.getUsersByEducator = (req, res) => {
         }
     });
 };
+
+exports.deleteUser = (req, res) => {
+    if (!req.body.idEducator || !req.body.idUser){
+        res.status(400).send({
+            message: `Values are missing`
+        });
+    } else {
+        Educator.deleteUser(req.body.idEducator, req.body.idUser, (error, data) => {
+            if (error) {
+                if(error.kind === "not_found"){
+                    res.status(404).send({
+                        message: `Couldn't find the educator with id: ${req.body.idEducator}`
+                    });
+                } else {
+                    res.status(500).send({
+                        message: `An error occured deleting user with id: ${req.body.idUser} for educator with id: ${req.body.idEducator}`
+                    });
+                }
+            } else {
+                res.send({
+                    message: `User with id: ${req.body.idUser} successfully deleted for educator with id: ${req.body.idEducator}`
+                });
+            }
+        });
+    }
+};

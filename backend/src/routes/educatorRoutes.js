@@ -6,6 +6,7 @@ module.exports = app => {
     router.post("/email", educator.getByEmail);
     router.post("/user", educator.addUser);
     router.get("/:id/user", educator.getUsersByEducator); 
+    router.delete("/:id/user/:idUser", educator.deleteUser);
 
     app.use('/educator', router);
     //app.use('/educator', AuthMiddleware.mustBeAuthenticated, router);
