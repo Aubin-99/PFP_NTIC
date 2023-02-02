@@ -312,3 +312,266 @@ Ça goûte bon
 Ça goûte mauvais
 Viens manger
 C'est terminé
+Mange avec Assiette
+Bol dans Assiette
+Tasse de lait
+Verre de eau
+Ustensiles cuillère
+Ustensiles Couteau
+Grosse cuillère
+Grosse fourchette
+Petite fourchette
+Breuvage chaud
+Fruits abricots
+Fruits Bleuets
+Fruits Cerises
+Fruits Citron
+Fruits Fraises
+Fruits Framboises
+Melon d'eau
+Fruits orange
+Fruits Pêche
+Pomme jaune
+Pomme rouge
+Pomme verte
+Fruits Prune
+Chou-fleur Brocoli
+Fruits Céleri
+Fruits Carottes
+Je veux manger Champignon Brocoli Carottes
+Tu mange Concombre Carottes
+Endives avec jambon
+Fèves germées
+Fruits Maïs
+Pois mange-tout
+Poivron rouge
+Poivron vert
+Soupe de Tomates
+Radis rouge
+Radis vert
+Pomme de terre au four
+Pomme de terre-cubes
+Coup de pied
+Coup de poing
+Étrangler Garçon
+Bousculer Garçon
+Ouvre les rideaux
+Essuie la toilette
+Sors le linge
+Dans la laveuse
+Dans le panier à linge
+Range ta couverture
+Range ton matelas
+Range les jouets
+Distribue les livres
+Arrose les plantes
+Balaie Époussette
+Passe l'aspirateur
+Porte-poussière
+Distribue les brosses
+Distribue le lait
+Distribue la collation
+Dessers la table
+Mets la table
+Mange Noix
+Mange Fromage
+Mange Chips
+Mange Chocolat
+Mange Tarte
+Mange Tarte aux fruits
+Mange Sucette glacée
+Oui cornet
+Mange Guimauves
+Mange Bonbons
+Mange Gâteau
+Mange Muffin
+Non Biscuits
+Oui avec Poulet
+Non avec Pâtes
+Oui mange Pizza
+Non Hot dog avec Pizza
+Mange Hamburger avec Croissant
+Mange pain avec purée
+mange poulet Frites
+Se cogner la tête
+Se frapper sur la tête
+Se rouler par terre
+Dire des mots méchants
+Rouspéter Déranger taper
+Déranger Garçon
+Déranger Fille
+Briser les objets
+Lancer par la fenêtre
+Lancer des objets
+Pipi dans l'herbe
+Jouer avec son pénis
+Sortir son pénis
+Se masturber avec main
+Main dans les fesses
+Dans l'escalier
+Prendre sans demander
+Partager les jouets
+Jouer avec un ami
+Assieds-toi en indien
+Tour de rôle
+Lève la main
+Attends jouer
+Garçon Respire
+Fille Respire
+Tiens la main
+Demande de l'aide
+Vouloir être seul
+Regarde l'autre
+Respecte l'espace
+Adulte qui parle
+Parler avec Adulte
+Parler avec Garçon
+Parler avec Fille
+S'intéresser Fille
+Comprendre Fille
+Comprendre Garçon
+Poser une question
+Voici ce que j'ai fait
+Bonjour Garçon
+Bonjour Fille
+Allô téléphone
+Merci de manger
+Merci amis
+Merci amies
+Oui amoureux
+Bisou d'amoureux
+Bisou envolé
+Câlin de papa
+Câlin de grand-maman
+Tu être excité
+Il être excité 
+Il être Heureux
+Tu être Heureux
+Il être indécis
+Tu être indécis
+Il être surpris
+Tu être surpris
+Grenouille en peluche
+Coccinelle en peluche
+Canard en peluche
+Monsieur Patate
+Poupée Barbie
+Jouets enfants
+Sapin de Noël
+Décore le sapin
+Père Noël
+Je n'ai pas le picto
+Temps libre
+À la pêche
+Piscine publique
+Récréation enfants
+Faire le train
+Jouets Détente enfants
+Joue en silence
+Boîte à surprises
+Atelier de travail
+Travail autonome
+Écriture enfants
+Écriture Garçon
+Écriture Fille
+Apprentissages de groupe
+Travail de groupe
+Atelier de groupe
+Jouets Ordinateur de enfants
+Apprentissages de sciences
+Bac à riz
+Bac à sable
+Bac à eau
+Ballon d'entraînement
+Psychomotricité enfants
+Danse de Garçon
+Danse de Fille
+Musique de enfants
+Enfilage de sable
+Jeux calmes
+Lecture de livres
+Coin lecture
+Manipulations de Fille
+Menuiserie de groupe
+Expression plastique
+Peinture vert
+Fille Marionnettes
+Garçon Marionnettes
+Tête à coiffer
+Trousse médicale
+Cuisinette ouvert
+Jeux symboliques
+Blocs et figurines
+Sauter en kangourou
+Exercices physiques
+Pousse sur le mur
+Saute en grenouille
+Saute en kangourou
+Fais beuh
+Bouge tes pieds
+Bouge tes mains
+Frotte tes cuisses
+Frotte tes bras
+Souffle dans ta main
+Pousse sur ta chaise
+Serre ton doigt
+Paume contre paume
+Mains sur les cuisses
+Mains sur les épaules
+Mains sur la tête
+Grand-maman
+Accessoires pour femme
+Bébé de chien
+Frère de papa
+Soeur de maman
+Accessoires pour homme
+Câlin de chien
+Accessoires pour chien
+École pour chien
+Magasin pour femme
+Magasin pour homme
+Épicerie À moi
+Camp d'été
+Départ de la garderie
+Arrivée à la garderie
+École enfants
+Maison À moi
+Maison À Toi
+Elles être anxieux
+Elles être contrarié
+Il être boudeur
+Il être Méprisant
+Il être Entêté
+Il être Fâché
+Il être Frustré
+Il être Apeuré
+Il être Mélancolique
+Quand consoler Garçon
+Quand consoler Fille
+Quand consoler enfants
+Quand consoler papa
+Quand consoler Maman
+Quand Applaudir papa
+Quand Applaudir Maman
+Il Applaudir papa
+Il Applaudir Maman
+Il être Chatouiller
+Il être Chatouiller
+Nous être Chatouiller
+Vous être Chatouiller
+Nous être Applaudir
+Vous être Applaudir
+Croiser ses bras
+Faire l'avion
+Fermer ses yeux
+Tu Marcher avec moi
+Il Marcher avec toi
+Lancer l'avion
+Montrer l'avion
+Regarder l'avion
+Se coucher Bonne nuit
+Ils Vouloir se coucher
+Elles vouloir se coucher
+Il être encore avec les autres
+Où être tu
+Où être vous
