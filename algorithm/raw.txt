@@ -97,3 +97,481 @@ Tu boire jus de raisin.
 Il boire eau.
 S'il te plait je veux eau.
 Je veux l'eau s'il te plait.
+Je veux des fraises
+Je veux manger poivron vert
+Je veux manger Concombre
+Je veux manger poivron rouge
+Je veux laitue
+Je veux manger pomme verte
+Je veux manger pomme rouge
+Je veux manger pomme légumes
+Je veux manger Brocoli
+Je veux manger Maïs
+Je veux manger Croissant
+Je veux manger Poulet
+Je veux manger Repas froid
+Je veux manger repas chaud
+Je veux manger biscuits
+Je veux manger chips
+Je veux fromage
+Il distribue le lait
+range tes vêtements
+ouvre les stores
+tiens la main
+Je jouer avec un ami
+prendre sans demander
+tour de rôle
+respecte l'espace
+regarde l'autre
+enfants qui discutent
+fière de toi
+Il être timide
+il être fatigué
+il être déçu
+il être anxieux
+il être avec les autres
+je veux manger pastèque encore
+pastèque avec pomme
+Oui avec toi
+tiens tes vêtements
+tiens regarde 
+tiens repas froid 
+tiens repas froid
+mange tes chips
+regarde repas froid 
+regarde repas chaud
+regarde enfants 
+demander enfants
+enfants fatigué
+enfants anxieux
+vêtements enfants
+Breuvage chaud
+boire eau froid
+boire eau chaud
+boire lait froid
+boire lait froid
+boire jus d'orange
+boire jus de raisin
+Baisse ton pantalon
+Ferme la porte 
+Déchire le papier
+Papier sale 
+Papier propre 
+Papier toilette
+Toilette propre
+Plie le papier
+jus chaud
+jus d'orange froid
+jus d'orange chaud
+Essuie tes fesses
+Caca dans la toilette
+Jette le papier
+Monte tes pantalons
+Tire la chasse
+Ouvre la porte
+Tu ouvre la porte
+Il ouvre la porte
+Je ouvre la porte
+Lave tes mains
+Ouvre le robinet
+Mouille tes mains
+Savonne tes mains
+Ferme le robinet
+Essuie tes mains
+Envie de pipi
+Mouiller ses vêtements
+Force sur la toilette
+Pipi debout
+Essuie le pipi
+Toilette Urinoir
+Se lever la nuit
+Prends du papier
+Fier de soi
+Mouille ta brosse
+Mets du dentifrice
+Brosse tes dents
+Rince ta bouche
+Crache avec ta bouche
+Peigne tes cheveux
+Vernis à ongles
+Couper les ongles
+Bain de bouche
+Déshabille-toi
+Entre dans le bain
+Mets du savon
+Lave ton visage
+Lave ton épaule
+Lave tes aisselles
+Lave ton ventre
+Lave tes fesses
+Lave ton pénis
+Lave tes jambes
+Mouille tes cheveux
+Essuie tes yeux
+Prends du shampoing
+Mousse tes cheveux
+Rince tes cheveux
+Essuie-toi
+Mets tes culottes
+Mets ta camisole
+Mets ton chandail
+Mets tes bas
+Mets ta jupe
+Mets ton pantalon
+Mets tes chaussettes
+Mets ta robe
+Habille-toi
+Mets tes souliers
+Détache tes souliers
+Enlève ton chandail
+Enlève tes chaussettes
+Enlève ta casquette
+Enlève tes mitaines
+Enlève ta tuque
+Enlève ton foulard
+Détache ton manteau
+Enlève ton manteau
+Enlève tes bottes
+Enlève ton pantalon
+Mets ton cache-col
+Mets tes lunettes
+Dormir sur lit
+Fais ton lit
+Brosse tes dents
+Histoire de nuit
+Bonne nuit
+Maman dort
+Accroche ton pyjama
+Fille de face
+Fille de dos
+Garçon de face
+Garçon de dos
+Yeux de Garçon
+Yeux de Fille
+Bain de bouche
+Langue de Garçon
+Gorge de Garçon
+Gorge de Fille
+Cheville de Garçon
+Cheville de Fille
+Poignet
+Oreille de garçon
+Oreille de Fille
+Poitrine de Garçon
+Poitrine de Fille
+Montrer où j'ai mal
+Mal à la tête
+Mal à la poitrine
+Mal au bras
+Mal à la main
+Mal au ventre
+Mal au dos
+Mal quand je fais pipi
+Mal au derrière
+Mal aux pieds
+Mal à la jambe
+Garçon Malade
+Fille Malade
+Garçon Étourdi
+Fille Étourdi
+Mal au coeur
+Vomir pastèque
+Vomir Concombre
+Vomir lait 
+Vomir lait chaud
+Vomir lait froid
+Je n'ai pas mal
+Je me sens bizarre
+J'ai un peu mal
+J'ai mal
+J'ai trop mal
+J'ai très mal
+Salle d'attente
+Médecin de Hôpital
+Parler avec le médecin
+Prendre la pression
+Réflexes de Garçon
+Réflexes de Fille
+Prendre la température
+Prise de sang
+Rayons X
+Dormir à l'hopital
+Pharmacien à l'hopital
+Médicaments de Pharmacien
+Soluté dans eau
+Sirop de Pharmacien
+Inhalateur avec eau
+Pansement de sang
+Diffuseur de eau
+Huiles essentielles
+Médecin Optométriste
+Médecin Orthophoniste
+Médecin Psychologue
+Médecin En santé
+Ça goûte bon
+Ça goûte mauvais
+Viens manger
+C'est terminé
+Mange avec Assiette
+Bol dans Assiette
+Tasse de lait
+Verre de eau
+Ustensiles cuillère
+Ustensiles Couteau
+Grosse cuillère
+Grosse fourchette
+Petite fourchette
+Breuvage chaud
+Fruits abricots
+Fruits Bleuets
+Fruits Cerises
+Fruits Citron
+Fruits Fraises
+Fruits Framboises
+Melon d'eau
+Fruits orange
+Fruits Pêche
+Pomme jaune
+Pomme rouge
+Pomme verte
+Fruits Prune
+Chou-fleur Brocoli
+Fruits Céleri
+Fruits Carottes
+Je veux manger Champignon Brocoli Carottes
+Tu mange Concombre Carottes
+Endives avec jambon
+Fèves germées
+Fruits Maïs
+Pois mange-tout
+Poivron rouge
+Poivron vert
+Soupe de Tomates
+Radis rouge
+Radis vert
+Pomme de terre au four
+Pomme de terre-cubes
+Coup de pied
+Coup de poing
+Étrangler Garçon
+Bousculer Garçon
+Ouvre les rideaux
+Essuie la toilette
+Sors le linge
+Dans la laveuse
+Dans le panier à linge
+Range ta couverture
+Range ton matelas
+Range les jouets
+Distribue les livres
+Arrose les plantes
+Balaie Époussette
+Passe l'aspirateur
+Porte-poussière
+Distribue les brosses
+Distribue le lait
+Distribue la collation
+Dessers la table
+Mets la table
+Mange Noix
+Mange Fromage
+Mange Chips
+Mange Chocolat
+Mange Tarte
+Mange Tarte aux fruits
+Mange Sucette glacée
+Oui cornet
+Mange Guimauves
+Mange Bonbons
+Mange Gâteau
+Mange Muffin
+Non Biscuits
+Oui avec Poulet
+Non avec Pâtes
+Oui mange Pizza
+Non Hot dog avec Pizza
+Mange Hamburger avec Croissant
+Mange pain avec purée
+mange poulet Frites
+Se cogner la tête
+Se frapper sur la tête
+Se rouler par terre
+Dire des mots méchants
+Rouspéter Déranger taper
+Déranger Garçon
+Déranger Fille
+Briser les objets
+Lancer par la fenêtre
+Lancer des objets
+Pipi dans l'herbe
+Jouer avec son pénis
+Sortir son pénis
+Se masturber avec main
+Main dans les fesses
+Dans l'escalier
+Prendre sans demander
+Partager les jouets
+Jouer avec un ami
+Assieds-toi en indien
+Tour de rôle
+Lève la main
+Attends jouer
+Garçon Respire
+Fille Respire
+Tiens la main
+Demande de l'aide
+Vouloir être seul
+Regarde l'autre
+Respecte l'espace
+Adulte qui parle
+Parler avec Adulte
+Parler avec Garçon
+Parler avec Fille
+S'intéresser Fille
+Comprendre Fille
+Comprendre Garçon
+Poser une question
+Voici ce que j'ai fait
+Bonjour Garçon
+Bonjour Fille
+Allô téléphone
+Merci de manger
+Merci amis
+Merci amies
+Oui amoureux
+Bisou d'amoureux
+Bisou envolé
+Câlin de papa
+Câlin de grand-maman
+Tu être excité
+Il être excité 
+Il être Heureux
+Tu être Heureux
+Il être indécis
+Tu être indécis
+Il être surpris
+Tu être surpris
+Grenouille en peluche
+Coccinelle en peluche
+Canard en peluche
+Monsieur Patate
+Poupée Barbie
+Jouets enfants
+Sapin de Noël
+Décore le sapin
+Père Noël
+Je n'ai pas le picto
+Temps libre
+À la pêche
+Piscine publique
+Récréation enfants
+Faire le train
+Jouets Détente enfants
+Joue en silence
+Boîte à surprises
+Atelier de travail
+Travail autonome
+Écriture enfants
+Écriture Garçon
+Écriture Fille
+Apprentissages de groupe
+Travail de groupe
+Atelier de groupe
+Jouets Ordinateur de enfants
+Apprentissages de sciences
+Bac à riz
+Bac à sable
+Bac à eau
+Ballon d'entraînement
+Psychomotricité enfants
+Danse de Garçon
+Danse de Fille
+Musique de enfants
+Enfilage de sable
+Jeux calmes
+Lecture de livres
+Coin lecture
+Manipulations de Fille
+Menuiserie de groupe
+Expression plastique
+Peinture vert
+Fille Marionnettes
+Garçon Marionnettes
+Tête à coiffer
+Trousse médicale
+Cuisinette ouvert
+Jeux symboliques
+Blocs et figurines
+Sauter en kangourou
+Exercices physiques
+Pousse sur le mur
+Saute en grenouille
+Saute en kangourou
+Fais beuh
+Bouge tes pieds
+Bouge tes mains
+Frotte tes cuisses
+Frotte tes bras
+Souffle dans ta main
+Pousse sur ta chaise
+Serre ton doigt
+Paume contre paume
+Mains sur les cuisses
+Mains sur les épaules
+Mains sur la tête
+Grand-maman
+Accessoires pour femme
+Bébé de chien
+Frère de papa
+Soeur de maman
+Accessoires pour homme
+Câlin de chien
+Accessoires pour chien
+École pour chien
+Magasin pour femme
+Magasin pour homme
+Épicerie À moi
+Camp d'été
+Départ de la garderie
+Arrivée à la garderie
+École enfants
+Maison À moi
+Maison À Toi
+Elles être anxieux
+Elles être contrarié
+Il être boudeur
+Il être Méprisant
+Il être Entêté
+Il être Fâché
+Il être Frustré
+Il être Apeuré
+Il être Mélancolique
+Quand consoler Garçon
+Quand consoler Fille
+Quand consoler enfants
+Quand consoler papa
+Quand consoler Maman
+Quand Applaudir papa
+Quand Applaudir Maman
+Il Applaudir papa
+Il Applaudir Maman
+Il être Chatouiller
+Il être Chatouiller
+Nous être Chatouiller
+Vous être Chatouiller
+Nous être Applaudir
+Vous être Applaudir
+Croiser ses bras
+Faire l'avion
+Fermer ses yeux
+Tu Marcher avec moi
+Il Marcher avec toi
+Lancer l'avion
+Montrer l'avion
+Regarder l'avion
+Se coucher Bonne nuit
+Ils Vouloir se coucher
+Elles vouloir se coucher
+Il être encore avec les autres
+Où être tu
+Où être vous
